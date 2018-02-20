@@ -1,7 +1,7 @@
 MiniKraft
 =========
 MiniKraft is a modification of Minicraft, the Ludam Dare-submitted project 
-written by Markus Persson (aka Notch), written in the Kotlin programming language.
+authored by Markus Persson (aka Notch), written in the Kotlin programming language.
 
 The original source code can be found [here](http://ludumdare.com/compo/ludum-dare-22/?action=preview&uid=398).
 
