@@ -11,12 +11,12 @@ up, I will maintain the overall status of the project here:
 - Part One: Implement Game() Part 1/3 - Complete
 - Part Two: Implement Screen(), Spritesheet() - Complete
 - Part Three: Implement InputHandler(), Menu() - Complete
-- Part Four: Implement Implement TitleMenu(), Font(). Color() - Complete
-- Part Five: Implement Implement Implement Game() Part 2/3 - Complete
+- Part Four: Implement TitleMenu(), Font(). Color() - Complete
+- Part Five: Implement Game() Part 2/3 - Complete
 
 #### Milestone One: Game menu with option selector is now rendered upon launch
 
-- Part Six: Implement Implement Level(), Player() - In Progress
+- Part Six: Implement Level(), Player() - In Progress
 
 More information about this project as well as a detailed write up of my progress can be found [here]().
 
